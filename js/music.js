@@ -8,18 +8,18 @@ const ap = new APlayer({
     lrcType: 3,
     /* 下方更改为你自己的歌单就行 */
     audio: [{
-            name: "夜曲",
-            artist: "周杰伦",
-            url: "https://drive.imsyy.top/api?path=%2F%E9%9F%B3%E4%B9%90%2F%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E5%A4%9C%E6%9B%B2.mp3&raw=true",
-            cover: "https://y.gtimg.cn/music/photo_new/T002R300x300M0000024bjiL2aocxT_1.jpg?max_age=2592000",
-            lrc: "https://s-sh-2127-music.oss.dogecdn.com/lrc%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E5%A4%9C%E6%9B%B2.lrc",
+            name: "只因你太美",
+            artist: "SWIN",
+            url: "https://ip-h5-ri01-sycdn.kuwo.cn/5f198e3f7f419b2db47635681b48eb51/63d1f01e/resource/n1/87/57/3082041059.mp3",
+            cover: "//y.qq.com/music/photo_new/T002R300x300M000000njTPs2T8kRO_1.jpg?max_age=2592000",
+            lrc: "",
             theme: "#171513"
         },
         {
-            name: "断了的弦",
-            artist: "周杰伦",
-            url: "https://drive.imsyy.top/api?path=%2F%E9%9F%B3%E4%B9%90%2F%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%96%AD%E4%BA%86%E7%9A%84%E5%BC%A6.mp3&raw=true",
-            cover: "https://y.qq.com/music/photo_new/T002R300x300M000001BGzMs369FzU_1.jpg?max_age=2592000",
+            name: "京剧猫",
+            artist: "胡莎莎&曹洋",
+            url: "https://win-web-ri01-sycdn.kuwo.cn/20f452c8a055706aa162b34fad890434/63d1f1f9/resource/n3/34/91/4122904640.mp3",
+            cover: "//y.qq.com/music/photo_new/T002R300x300M0000038Ca5Z3sj6sz_3.jpg?max_age=2592000",
             lrc: "https://s-sh-2127-music.oss.dogecdn.com/lrc%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%96%AD%E4%BA%86%E7%9A%84%E5%BC%A6.lrc",
             theme: "#0057a7"
         },
@@ -28,7 +28,7 @@ const ap = new APlayer({
             artist: "周杰伦",
             url: "https://drive.imsyy.top/api?path=%2F%E9%9F%B3%E4%B9%90%2F%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E5%8F%91%E5%A6%82%E9%9B%AA.mp3&raw=true",
             cover: "https://y.gtimg.cn/music/photo_new/T002R300x300M0000024bjiL2aocxT_1.jpg?max_age=2592000",
-            lrc: "https://s-sh-2127-music.oss.dogecdn.com/lrc%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E5%8F%91%E5%A6%82%E9%9B%AA.lrc",
+            lrc: "",
             theme: "#171513"
         },
         {
@@ -66,7 +66,7 @@ const ap = new APlayer({
         {
             name: "本草纲目",
             artist: "周杰伦",
-            url: "https://drive.imsyy.top/api?path=%2F%E9%9F%B3%E4%B9%90%2F%E6%96%87%E4%BB%B6%E5%BC%95%E7%94%A8%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE.mp3&raw=true",
+            url: "http://win.web.ra01.sycdn.kuwo.cn/3353fb2f85744f2582aba7b34d7f76cc/63d1ef5c/resource/n2/320/69/59/479355449.mp3",
             cover: "https://y.gtimg.cn/music/photo_new/T002R300x300M000002jLGWe16Tf1H_1.jpg?max_age=2592000",
             lrc: "https://s-sh-2127-music.oss.dogecdn.com/lrc%2F%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE.lrc",
             theme: "#171513"
